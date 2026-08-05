@@ -12,3 +12,4 @@ int main()
 	
 	return 0;
 }
+//\ddd表示一个八进制数，\xhh表示一个十六进制数

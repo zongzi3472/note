@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C\\VS\\260805\\",
+  "WorkspaceRootPath": "D:\\C\\note\\260805\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{367D2CB8-882B-4B0D-8B0B-F83B06E60B28}|260805\\260805.vcxproj|D:\\C\\VS\\260805\\260805\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{367D2CB8-882B-4B0D-8B0B-F83B06E60B28}|260805\\260805.vcxproj|D:\\C\\note\\260805\\260805\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{367D2CB8-882B-4B0D-8B0B-F83B06E60B28}|260805\\260805.vcxproj|solutionrelative:260805\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test.c",
-              "DocumentMoniker": "D:\\C\\VS\\260805\\260805\\test.c",
+              "DocumentMoniker": "D:\\C\\note\\260805\\260805\\test.c",
               "RelativeDocumentMoniker": "260805\\test.c",
-              "ToolTip": "D:\\C\\VS\\260805\\260805\\test.c",
+              "ToolTip": "D:\\C\\note\\260805\\260805\\test.c",
               "RelativeToolTip": "260805\\test.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-08-05T05:27:26.79Z",
               "EditorCaption": ""
