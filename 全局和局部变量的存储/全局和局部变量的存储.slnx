@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="全局和局部变量的存储/全局和局部变量的存储.vcxproj" />
+</Solution>
