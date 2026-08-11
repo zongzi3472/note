@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="printf和scanf/printf和scanf.vcxproj" />
+  <Project Path="printf和scanf/printf和scanf.vcxproj" Id="d545d920-9466-472b-bf3c-7f90f4fe2c0f" />
 </Solution>
