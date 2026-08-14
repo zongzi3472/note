@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="if语句/if语句.vcxproj" Id="ddad4bf1-dc26-4de3-90c5-3da0de5bdb95" />
+</Solution>
