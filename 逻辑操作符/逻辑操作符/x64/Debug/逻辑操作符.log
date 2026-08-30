@@ -1,0 +1,3 @@
+﻿  test.c
+D:\C\note\逻辑操作符\逻辑操作符\test.c(7,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  逻辑操作符.vcxproj -> D:\C\note\逻辑操作符\x64\Debug\逻辑操作符.exe
