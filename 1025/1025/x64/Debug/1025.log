@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\C\note\1025\1025\源.cpp(5,9): warning C4101: “i”: 未引用的局部变量
+  1025.vcxproj -> D:\C\note\1025\x64\Debug\1025.exe

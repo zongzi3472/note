@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\\note\\1064\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F014854-50F3-4882-8B72-31DE8D7DC809}|1064\\1064.vcxproj|D:\\C\\note\\1064\\1064\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F014854-50F3-4882-8B72-31DE8D7DC809}|1064\\1064.vcxproj|solutionrelative:1064\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:283709:0:{1a46fd64-28d5-0019-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "D:\\C\\note\\1064\\1064\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "1064\\\u6E90.cpp",
+              "ToolTip": "D:\\C\\note\\1064\\1064\\\u6E90.cpp",
+              "RelativeToolTip": "1064\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-28T10:49:49.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\C\note\P1706\P1706\源.cpp(8,4): error C2065: “cout”: 未声明的标识符
+D:\C\note\P1706\P1706\源.cpp(10,5): error C2065: “cout”: 未声明的标识符
+D:\C\note\P1706\P1706\源.cpp(10,13): error C2065: “endl”: 未声明的标识符
+D:\C\note\P1706\P1706\源.cpp(22,2): error C2065: “cin”: 未声明的标识符

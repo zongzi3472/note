@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\\note\\B2077\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F844BA60-EB83-478A-B89B-F013DEB8C1C9}|B2077\\B2077.vcxproj|D:\\C\\note\\B2077\\B2077\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F844BA60-EB83-478A-B89B-F013DEB8C1C9}|B2077\\B2077.vcxproj|solutionrelative:B2077\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "D:\\C\\note\\B2077\\B2077\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "B2077\\\u6E90.cpp",
+              "ToolTip": "D:\\C\\note\\B2077\\B2077\\\u6E90.cpp",
+              "RelativeToolTip": "B2077\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-26T13:38:53.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

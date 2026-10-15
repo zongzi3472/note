@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\\note\\switch\u8BED\u53E5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DBF3F0-1B68-4037-9B91-CB3438536946}|switch\u8BED\u53E5\\switch\u8BED\u53E5.vcxproj|D:\\C\\note\\switch\u8BED\u53E5\\switch\u8BED\u53E5\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2DBF3F0-1B68-4037-9B91-CB3438536946}|switch\u8BED\u53E5\\switch\u8BED\u53E5.vcxproj|solutionrelative:switch\u8BED\u53E5\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "D:\\C\\note\\switch\u8BED\u53E5\\switch\u8BED\u53E5\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "switch\u8BED\u53E5\\\u6E90.cpp",
+              "ToolTip": "D:\\C\\note\\switch\u8BED\u53E5\\switch\u8BED\u53E5\\\u6E90.cpp",
+              "RelativeToolTip": "switch\u8BED\u53E5\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-21T12:22:58.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

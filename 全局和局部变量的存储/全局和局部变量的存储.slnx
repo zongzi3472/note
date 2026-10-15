@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="全局和局部变量的存储/全局和局部变量的存储.vcxproj" />
+  <Project Path="全局和局部变量的存储/全局和局部变量的存储.vcxproj" Id="4ef54200-f285-442e-ae81-730a67e06576" />
 </Solution>
